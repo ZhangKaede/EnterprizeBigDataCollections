@@ -1,0 +1,15 @@
+# ===== crefidential infors=====
+.kaggle/
+kaggle.json
+
+# ===== data =====
+data/
+raw/
+processed/
+
+# ===== models =====
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.safetensors
