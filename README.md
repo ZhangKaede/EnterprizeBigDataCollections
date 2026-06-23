@@ -1,4 +1,4 @@
-\# Previous Datasets
+# Previous Datasets
 
 https://github.com/abhishekkrthakur/approachingalmost
 
@@ -8,9 +8,9 @@ https://www.kaggle.com/datasets/abhishek/siim-png-images
 
 
 
-\# Datasets
+# Datasets
 
-\## E Commerce
+## E Commerce
 
 https://www.kaggle.com/competitions/ga-customer-revenue-prediction
 
